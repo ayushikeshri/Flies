@@ -16,3 +16,9 @@ pine apple
 jack fruit
 strawberry
 watermalon
+-----------------------------
+ayushi
+aamir
+uzma
+asif
+saquib
