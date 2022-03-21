@@ -7,3 +7,12 @@ green
 black
 red
 blue
+----------
+apple
+guava
+mango
+banana
+pine apple
+jack fruit
+strawberry
+watermalon
